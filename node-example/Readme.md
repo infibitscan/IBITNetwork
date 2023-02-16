@@ -1,6 +1,6 @@
 # Run a IBIT Validator
 ## Setting up a node
-1. Git clone https://github.com/WAONETWORK/IBITNetwork.git
+1. Git clone https://github.com/Infibitscan/IBITNetwork.git
 
 2. Copy source form node-example to root folder
 ```
